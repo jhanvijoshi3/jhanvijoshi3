@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on end-to-end machine learning and analytics projects with real-world business use cases.<br><br>I’m looking to collaborate on ML, product analytics, and experimentation projects.<br><br>I’m interested in discussions around scalable ML systems, model evaluation strategies, and production-ready data workflows.<br><br>I’m currently learning advanced SQL, machine learning optimization, and data pipeline design.<br><br>Ask me about applied machine learning, business metrics, experimentation design, and analytics workflows.<br><br>Fun fact: I enjoy turning messy datasets into structured, decision-ready insights.
+I’m currently working on end-to-end machine learning and analytics projects with real-world business use cases.<br><br>I’m looking to collaborate on ML, product analytics, and experimentation projects.<br><br>I’m interested in discussions around scalable ML systems, model evaluation strategies, and production-ready data workflows.<br><br>I’m currently learning Deep learning and data pipeline design.<br><br>Ask me about applied machine learning, business metrics, experimentation design, and analytics workflows.<br><br>Fun fact: I enjoy turning messy datasets into structured, decision-ready insights.
 
 
 ## 🌐 Socials:
