@@ -1,5 +1,22 @@
 # 💫 About Me:
-I’m an aspiring Data Scientist passionate about building end-to-end data and machine learning solutions that solve real business problems.<br><br>I’m currently working on end-to-end machine learning and analytics projects focused on real-world business use cases.<br><br>I’m looking to collaborate on machine learning, product analytics, and experimentation projects.<br><br>I’m interested in discussions around scalable ML systems, model evaluation, A/B testing, and production-ready data workflows.<br><br>Currently learning deep learning, data pipeline design, and advanced analytics techniques.<br><br>Ask me about applied machine learning, business metrics, experimentation design, and analytics workflows.<br><br>Fun fact: I enjoy turning messy datasets into structured insights that drive better decisions.
+
+Aspiring Data Scientist focused on building end-to-end data and machine learning systems that solve real-world business problems.
+
+Currently working on projects involving large-scale data analysis, machine learning pipelines, and product-focused analytics — turning raw data into actionable insights.
+
+Interested in:
+• Machine Learning & Predictive Modeling  
+• Product Analytics & User Behavior  
+• A/B Testing & Experimentation  
+• Scalable Data Systems & Production Workflows  
+
+Currently exploring deep learning, data engineering (ETL pipelines), and advanced analytics techniques.
+
+Open to collaborating on impactful projects in ML, analytics, and experimentation.
+
+💬 Ask me about: applied machine learning, business metrics, experimentation design, and analytics workflows.
+
+⚡ Fun fact: I enjoy turning messy, chaotic datasets into clean insights that drive real decisions.
 
 
 ## 🌐 Socials:
