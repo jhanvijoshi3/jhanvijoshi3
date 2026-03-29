@@ -5,6 +5,7 @@ Aspiring Data Scientist focused on building end-to-end data and machine learning
 Currently working on projects involving large-scale data analysis, machine learning pipelines, and product-focused analytics — turning raw data into actionable insights.
 
 Interested in:
+
 • Machine Learning & Predictive Modeling  
 • Product Analytics & User Behavior  
 • A/B Testing & Experimentation  
